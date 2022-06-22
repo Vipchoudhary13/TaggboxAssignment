@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.user {
+  border: 1px solid black;
+  width: 73%;
+  margin: auto;
+}
+th {
+  background-color: lightgray;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 8px 9px;
+}
+button {
+  cursor: pointer;
+}
+.delete-btn {
+  background-color: red;
+  color: #fff;
+  border: none;
+  padding: 3px 8px;
+  border-radius: 2px;
+}
